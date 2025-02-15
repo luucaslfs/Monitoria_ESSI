@@ -1,5 +1,9 @@
 # Tutorial de Deploy - Do Docker Local à AWS
 
+## Teoria
+
+Caso você precise revisar a teoria do que vimos na monitoria, acesse o [/Guia_Docker.md](./Guia_Docker.md)
+
 ## 1. Aplicação Flask
 Criamos uma aplicação Flask temática baseada na série Severance (Ruptura):
 
