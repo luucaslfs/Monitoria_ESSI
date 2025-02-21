@@ -11,7 +11,7 @@ env:
   ECS_SERVICE: meu-deploy                      # Nome do seu serviço
   ECS_CLUSTER: cluster                         # Nome do seu cluster
   ECS_TASK_DEFINITION: monitoria-essi          # Nome da task definition sem a versão
-  CONTAINER_NAME: monitoria-essi               # Nome do container na task definition
+  CONTAINER_NAME: monitoria-essi-container     # Nome do container na task definition
 
 permissions:
   contents: read
