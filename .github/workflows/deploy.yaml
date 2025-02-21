@@ -11,7 +11,7 @@ env:
   ECS_SERVICE: meu-deploy
   ECS_CLUSTER: cluster
   ECS_TASK_DEFINITION: monitoria-essi
-  CONTAINER_NAME: app
+  CONTAINER_NAME: monitoria-essi-container
 
 permissions:
   contents: read
