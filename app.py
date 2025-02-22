@@ -81,9 +81,9 @@ def hello_world():
                 <p class="blink">ACESSO AUTORIZADO</p>
             </div>
             
-            <p>Saudações, valoroso(a) aprendiz designado(a) à supervisão do Refinador Pleno Lucas.</p>
+            <p>Saudações, valoroso(a) aprendiz designado(a) à supervisão do Refinador Sênior Vinicius.</p>
             <p>Você foi selecionado(a) para experimentar a alegria do deploy refinado.</p>
-            <p>Por favor, não questione os métodos de ensino. Eles são misteriosos e importantes.</p>
+            <p>Por favor, não questione os métodos de lecionamento. Eles são misteriosos e importantes.</p>
             
             <p>Terminal: MDR-Deploy-{random.randint(1000, 9999)}</p>
             
